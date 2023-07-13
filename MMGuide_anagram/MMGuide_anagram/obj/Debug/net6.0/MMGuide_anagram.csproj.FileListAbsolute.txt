@@ -1,0 +1,15 @@
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\bin\Debug\net6.0\MMGuide_anagram.exe
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\bin\Debug\net6.0\MMGuide_anagram.deps.json
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\bin\Debug\net6.0\MMGuide_anagram.runtimeconfig.json
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\bin\Debug\net6.0\MMGuide_anagram.dll
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\bin\Debug\net6.0\MMGuide_anagram.pdb
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.csproj.AssemblyReference.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.AssemblyInfoInputs.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.AssemblyInfo.cs
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.csproj.CoreCompileInputs.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.dll
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\refint\MMGuide_anagram.dll
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.pdb
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\MMGuide_anagram.genruntimeconfig.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_anagram\MMGuide_anagram\obj\Debug\net6.0\ref\MMGuide_anagram.dll
