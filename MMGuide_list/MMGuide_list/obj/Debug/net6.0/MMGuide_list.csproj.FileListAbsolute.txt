@@ -1,0 +1,15 @@
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\bin\Debug\net6.0\MMGuide_list.exe
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\bin\Debug\net6.0\MMGuide_list.deps.json
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\bin\Debug\net6.0\MMGuide_list.runtimeconfig.json
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\bin\Debug\net6.0\MMGuide_list.dll
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\bin\Debug\net6.0\MMGuide_list.pdb
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.csproj.AssemblyReference.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.AssemblyInfoInputs.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.AssemblyInfo.cs
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.csproj.CoreCompileInputs.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.dll
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\refint\MMGuide_list.dll
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.pdb
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\MMGuide_list.genruntimeconfig.cache
+C:\$_My_Projects\Opfriscode\CS\MMGuide_list\MMGuide_list\obj\Debug\net6.0\ref\MMGuide_list.dll
